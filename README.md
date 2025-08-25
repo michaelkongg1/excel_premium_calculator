@@ -28,6 +28,14 @@ Built using Statistics Canada mortality data and standard actuarial formulas for
 Premiums rise **exponentially** with age due to higher mortality risk.  
 
 ---
+## 📸 Screenshots
+### Dashboard  
+![Dashboard](image/dashboard.png)  
+
+### Net Premium vs Age  
+![Chart](image/chart.png)
+
+---
 
 ## 🎯 Skills
 - Excel modeling & data tables  
